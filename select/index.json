@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "熱笑",
+  "base_artist": "名取さな",
+  "createdAt": "2026-03-10T04:10:54.840353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱笑",
+      "artist": "名取さな",
+      "has_synced": false,
+      "path": "select/pl_01_熱笑_名取さな.txt"
+    }
+  ]
+}
